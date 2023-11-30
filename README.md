@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A 4th year computer science student at NOVA School of Science and Technology (Lisbon)</h3>
 
-- 🌱 I’m currently taking a masters degree in **Computer Science and Engineering** at **[FCT NOVA](https://www.fct.unl.pt)**
+- 📚 I’m currently taking a masters degree in **Computer Science and Engineering** at **[FCT NOVA](https://www.fct.unl.pt)**
 
 - 📫 How to reach me **gr.figueira@campus.fct.unl.pt**
 
