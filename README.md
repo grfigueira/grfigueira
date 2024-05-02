@@ -1,6 +1,6 @@
 # Hi, I'm Guilherme!
 
-<img src="https://github.com/grfigueira/grfigueira/assets/24763517/a0452ea0-ee04-4b18-9d92-8263ca330bb3" width="340">
+<img src="https://github.com/grfigueira/grfigueira/assets/24763517/2007f0f7-cb6c-4403-bb69-6e726fad2fd7" width="340">
 
 ## About me
 
