@@ -4,8 +4,8 @@
 
 ## About me
 
-I'm a 4th year **Computer Science and Engineering** student at [FCT-UNL](https://www.fct.unl.pt/).
-Currently taking my masters degree.
+I'm a 5th year **Computer Science and Engineering** student at [FCT-UNL](https://www.fct.unl.pt/).
+Currently working on my thesis on Mixed Reality.
 
 [![Linkedin Snapi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-figueira-839333231/)
 
