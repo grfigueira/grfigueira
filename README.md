@@ -8,6 +8,10 @@ I'm a 5th year **Computer Science and Engineering** student at [FCT-UNL](https:/
 
 Currently working on my thesis on Mixed Reality.
 
-[![Linkedin Snapi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-figueira-839333231/)
+---
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-figueira-839333231/)
+[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://gfigueira.itch.io/)
+
 
 
