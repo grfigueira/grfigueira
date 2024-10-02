@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm a 5th year **Computer Science and Engineering** student at [FCT-UNL](https://www.fct.unl.pt/).
+I'm a **Computer Science and Engineering** student at [FCT-UNL](https://www.fct.unl.pt/).
 
 Currently working on my master's thesis on Mixed Reality.
 
