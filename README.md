@@ -8,7 +8,7 @@ I'm an Msc student in **Computer Science and Engineering** at [FCT-UNL](https://
 
 Currently working on my master's thesis on Mixed Reality.
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-figueira-839333231/)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grfigueira/)
 [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](https://gfigueira.itch.io/)
 
 
