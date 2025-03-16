@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm an Msc student in **Computer Science and Engineering** at [FCT-UNL](https://www.fct.unl.pt/).
+I'm an Msc student in **Computer Science and Engineering** at [FCT-UNL](https://www.fct.unl.pt/), passionate about software engineering in games.
 
 Currently working on my master's thesis on Substitutional Reality.
 
